@@ -1,0 +1,7 @@
+{
+  "name": "discord-reaction-roles-bot",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": "index.js"
+}
